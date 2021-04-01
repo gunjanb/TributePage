@@ -10,7 +10,7 @@
 
 ## ScreenShot
 
-![TributePage](./assets/images/Horiseon.png)
+![TributePage](./assets/images/Tributepage.png)
 
 ## Deployed Application
 
