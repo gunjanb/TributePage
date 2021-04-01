@@ -1,0 +1,35 @@
+.main-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 98%;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px orange, 0 0 1em green, 0 0 0.2em green;
+}
+.title {
+  flex: 0 0 100%;
+  text-align: center;
+}
+.header-image img {
+  width: 100%;
+}
+
+body {
+  background-image: linear-gradient(to right, orange, white, green);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 85%;
+  background-image: linear-gradient(to right, white, rgb(196, 183, 183));
+  justify-content: center;
+  padding: 2%;
+  margin: 2rem;
+  border-radius: 5%;
+}
