@@ -1,4 +1,4 @@
-**TributePage** is a tribut page for Mohandas Karamchand Gandhi was an Indian lawyer, anti-colonial nationalist, and political ethicist, who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and in turn inspired movements for civil rights and freedom across the world.
+**TributePage** is a tribute page for Mohandas Karamchand Gandhi who was an Indian lawyer, anti-colonial nationalist, and political ethicist, who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and in turn inspired movements for civil rights and freedom across the world.
 
 ## Key Learning:
 
